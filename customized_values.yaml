@@ -1,0 +1,7 @@
+# Customized values for web-app
+
+replicaCount: 10
+
+service:
+  port: 30031
+
