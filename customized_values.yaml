@@ -5,3 +5,5 @@ replicaCount: 10
 service:
   port: 30031
 
+image:
+  tag: 2.0.0
